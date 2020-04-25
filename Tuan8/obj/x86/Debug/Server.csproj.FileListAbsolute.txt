@@ -1,0 +1,4 @@
+C:\Users\FPT\Desktop\Tuan8\Tuan8\bin\Debug\Tuan8.exe
+C:\Users\FPT\Desktop\Tuan8\Tuan8\bin\Debug\Tuan8.pdb
+C:\Users\FPT\Desktop\Tuan8\Tuan8\obj\x86\Debug\Tuan8.exe
+C:\Users\FPT\Desktop\Tuan8\Tuan8\obj\x86\Debug\Tuan8.pdb
