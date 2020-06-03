@@ -1,0 +1,12 @@
+E:\LapTrinhMang\Client_Server_NTH\Client_Server_NTH\bin\Debug\Client_Server_NTH.exe.config
+E:\LapTrinhMang\Client_Server_NTH\Client_Server_NTH\bin\Debug\Client_Server_NTH.exe
+E:\LapTrinhMang\Client_Server_NTH\Client_Server_NTH\bin\Debug\Client_Server_NTH.pdb
+E:\LapTrinhMang\Client_Server_NTH\Client_Server_NTH\bin\Debug\SimpleTCP.dll
+E:\LapTrinhMang\Client_Server_NTH\Client_Server_NTH\obj\Debug\Client_Server_NTH.csprojAssemblyReference.cache
+E:\LapTrinhMang\Client_Server_NTH\Client_Server_NTH\obj\Debug\Client_Server_NTH.Server.resources
+E:\LapTrinhMang\Client_Server_NTH\Client_Server_NTH\obj\Debug\Client_Server_NTH.Properties.Resources.resources
+E:\LapTrinhMang\Client_Server_NTH\Client_Server_NTH\obj\Debug\Client_Server_NTH.csproj.GenerateResource.cache
+E:\LapTrinhMang\Client_Server_NTH\Client_Server_NTH\obj\Debug\Client_Server_NTH.csproj.CoreCompileInputs.cache
+E:\LapTrinhMang\Client_Server_NTH\Client_Server_NTH\obj\Debug\Client_Server_NTH.csproj.CopyComplete
+E:\LapTrinhMang\Client_Server_NTH\Client_Server_NTH\obj\Debug\Client_Server_NTH.exe
+E:\LapTrinhMang\Client_Server_NTH\Client_Server_NTH\obj\Debug\Client_Server_NTH.pdb

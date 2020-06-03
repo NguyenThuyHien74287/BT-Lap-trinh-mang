@@ -1,0 +1,11 @@
+E:\LapTrinhMang\Client_Server_NTH\Client1\bin\Debug\Client1.exe.config
+E:\LapTrinhMang\Client_Server_NTH\Client1\bin\Debug\Client1.exe
+E:\LapTrinhMang\Client_Server_NTH\Client1\bin\Debug\Client1.pdb
+E:\LapTrinhMang\Client_Server_NTH\Client1\bin\Debug\SimpleTCP.dll
+E:\LapTrinhMang\Client_Server_NTH\Client1\obj\Debug\Client1.Form1.resources
+E:\LapTrinhMang\Client_Server_NTH\Client1\obj\Debug\Client1.Properties.Resources.resources
+E:\LapTrinhMang\Client_Server_NTH\Client1\obj\Debug\Client1.csproj.GenerateResource.cache
+E:\LapTrinhMang\Client_Server_NTH\Client1\obj\Debug\Client1.csproj.CoreCompileInputs.cache
+E:\LapTrinhMang\Client_Server_NTH\Client1\obj\Debug\Client1.csproj.CopyComplete
+E:\LapTrinhMang\Client_Server_NTH\Client1\obj\Debug\Client1.exe
+E:\LapTrinhMang\Client_Server_NTH\Client1\obj\Debug\Client1.pdb
